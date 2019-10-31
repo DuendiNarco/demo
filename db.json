@@ -1,5 +1,4 @@
-{
-  "photos": [
+"photos": [
     { "id": 1, "src": "https://i.pinimg.com/564x/3f/ef/0c/3fef0ccd4d0fa532510cabce96dc4ede.jpg" },
     { "id": 2, "src": "https://i.pinimg.com/564x/d0/25/03/d0250367b40eadc83d497e6c7678aa26.jpg" },
     { "id": 3, "src": "https://i.pinimg.com/564x/a2/52/38/a25238d8f8741fe981c81bc4d74b0245.jpg" },
@@ -7,4 +6,3 @@
     { "id": 5, "src": "https://i.pinimg.com/564x/14/64/f1/1464f151866a1efb4a6fa04bc7fbecd3.jpg" },
     { "id": 6, "src": "https://i.pinimg.com/564x/c9/4e/c6/c94ec673a1ec138ee74c01ac14b6a692.jpg" }
   ]
-}
